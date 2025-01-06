@@ -1,0 +1,61 @@
+,title,tissue,metastasis,description
+GSM5574685,tumor rep1,breast tumor,yes,CA.102548
+GSM5574686,tumor rep2,breast tumor,yes,CA.104338
+GSM5574687,tumor rep3,breast tumor,yes,CA.105094
+GSM5574688,tumor rep4,breast tumor,no,CA.109745
+GSM5574689,tumor rep5,breast tumor,no,CA.1906415
+GSM5574690,tumor rep6,breast tumor,yes,CA.1912627
+GSM5574691,tumor rep7,breast tumor,no,CA.1924346
+GSM5574692,tumor rep8,breast tumor,no,CA.1926760
+GSM5574693,tumor rep9,breast tumor,yes,CA.1927842
+GSM5574694,tumor rep10,breast tumor,no,CA.1933414
+GSM5574695,tumor rep11,breast tumor,yes,CA.1940640
+GSM5574696,tumor rep12,breast tumor,no,CA.2004407
+GSM5574697,tumor rep13,breast tumor,no,CA.2005288
+GSM5574698,tumor rep14,breast tumor,yes,CA.2006047
+GSM5574699,tumor rep15,breast tumor,no,CA.2008260
+GSM5574700,tumor rep16,breast tumor,yes,CA.2009329
+GSM5574701,tumor rep17,breast tumor,no,CA.2009381
+GSM5574702,tumor rep18,breast tumor,yes,CA.2009850
+GSM5574703,tumor rep19,breast tumor,yes,CA.2017611
+GSM5574704,tumor rep20,breast tumor,yes,CA.2039179
+GSM5574705,tumor rep21,breast tumor,no,CA.2040686
+GSM5574706,tumor rep22,breast tumor,no,CA.2045012
+GSM5574707,tumor rep23,breast tumor,yes,CA.2046297
+GSM5574708,tumor rep24,breast tumor,yes,CA.348981
+GSM5574709,tumor rep25,breast tumor,no,CA.354300
+GSM5574710,tumor rep26,breast tumor,no,CA.359448
+GSM5574711,tumor rep27,breast tumor,yes,CA.94377
+GSM5574712,tumor rep28,breast tumor,no,CA.98389
+GSM5574713,tumor rep29,breast tumor,no,CA.98475
+GSM5574714,tumor rep30,breast tumor,yes,CA.99145
+GSM5574715,normal rep1,normal breast tissue,yes,CAP.102548
+GSM5574716,normal rep2,normal breast tissue,yes,CAP.104338
+GSM5574717,normal rep3,normal breast tissue,yes,CAP.105094
+GSM5574718,normal rep4,normal breast tissue,no,CAP.109745
+GSM5574719,normal rep5,normal breast tissue,no,CAP.1906415
+GSM5574720,normal rep6,normal breast tissue,yes,CAP.1912627
+GSM5574721,normal rep7,normal breast tissue,no,CAP.1924346
+GSM5574722,normal rep8,normal breast tissue,no,CAP.1926760
+GSM5574723,normal rep9,normal breast tissue,yes,CAP.1927842
+GSM5574724,normal rep10,normal breast tissue,no,CAP.1933414
+GSM5574725,normal rep11,normal breast tissue,yes,CAP.1940640
+GSM5574726,normal rep12,normal breast tissue,no,CAP.2004407
+GSM5574727,normal rep13,normal breast tissue,no,CAP.2005288
+GSM5574728,normal rep14,normal breast tissue,yes,CAP.2006047
+GSM5574729,normal rep15,normal breast tissue,no,CAP.2008260
+GSM5574730,normal rep16,normal breast tissue,yes,CAP.2009329
+GSM5574731,normal rep17,normal breast tissue,no,CAP.2009381
+GSM5574732,normal rep18,normal breast tissue,yes,CAP.2009850
+GSM5574733,normal rep19,normal breast tissue,yes,CAP.2017611
+GSM5574734,normal rep20,normal breast tissue,yes,CAP.2039179
+GSM5574735,normal rep21,normal breast tissue,no,CAP.2040686
+GSM5574736,normal rep22,normal breast tissue,no,CAP.2046297
+GSM5574737,normal rep23,normal breast tissue,yes,CAP.2046641
+GSM5574738,normal rep24,normal breast tissue,yes,CAP.348981
+GSM5574739,normal rep25,normal breast tissue,no,CAP.354300
+GSM5574740,normal rep26,normal breast tissue,no,CAP.359448
+GSM5574741,normal rep27,normal breast tissue,yes,CAP.94377
+GSM5574742,normal rep28,normal breast tissue,no,CAP.98389
+GSM5574743,normal rep29,normal breast tissue,no,CAP.98475
+GSM5574744,normal rep30,normal breast tissue,yes,CAP.99145
